@@ -1,0 +1,14 @@
+E:\Mphasis\Feb15\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.exe
+E:\Mphasis\Feb15\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.deps.json
+E:\Mphasis\Feb15\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.runtimeconfig.json
+E:\Mphasis\Feb15\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.dll
+E:\Mphasis\Feb15\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.pdb
+E:\Mphasis\Feb15\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mphasis\Feb15\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfoInputs.cache
+E:\Mphasis\Feb15\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfo.cs
+E:\Mphasis\Feb15\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.csproj.CoreCompileInputs.cache
+E:\Mphasis\Feb15\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.dll
+E:\Mphasis\Feb15\WelcomeApp\WelcomeApp\obj\Debug\net6.0\refint\WelcomeApp.dll
+E:\Mphasis\Feb15\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.pdb
+E:\Mphasis\Feb15\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.genruntimeconfig.cache
+E:\Mphasis\Feb15\WelcomeApp\WelcomeApp\obj\Debug\net6.0\ref\WelcomeApp.dll
